@@ -26,7 +26,9 @@ def literal_aoh
     JOELLE_VD
     PAT_M,
     KATE_G,
-    BRUCE_G]
+    BRUCE_G
+    ]
+  array
 end
 
 def aoh_lookup(aoh, row, key)
